@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
-  image: assets\img\hamza_adnan.jpg
+  image: hamza_adnan.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 
@@ -22,7 +22,9 @@ I am a fourth year student at the Lahore University of Management Sciences major
 - Generative AI
 - AI for social good (especially in remote sensing domains)
 
-I am currently a research assistant at the Center for [Urban Informatics, Technology, and Policy](https://city.lums.edu.pk/)
+I am currently a research assistant at the [Center for Urban Informatics, Technology, and Policy](https://city.lums.edu.pk/) (CITY).
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
