@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year student at the Lahore University of Management Sciences majoring in Electrical Engineering and Minoring in Computer Science. I'm interested in AI, broadly the following themes:
+I am a fourth year student at the Lahore University of Management Sciences majoring in Electrical Engineering and Minoring in Computer Science. I'm interested in AI. Broadly, in the following themes:
 
     - Interpretable Neural Networks
     - Generative AI
